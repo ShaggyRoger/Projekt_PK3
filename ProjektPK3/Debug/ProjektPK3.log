@@ -1,0 +1,6 @@
+﻿  ProjektPK3.cpp
+c:\users\shaggy\source\repos\projektpk3\projektpk3\definicje.h(374): warning C4804: '<=': unsafe use of type 'bool' in operation
+c:\users\shaggy\source\repos\projektpk3\projektpk3\definicje.h(174): warning C4715: 'student_list::search': not all control paths return a value
+c:\users\shaggy\source\repos\projektpk3\projektpk3\definicje.h(192): warning C4715: 'student_list::search_pesel': not all control paths return a value
+c:\users\shaggy\source\repos\projektpk3\projektpk3\menu.h(275): warning C4717: 'Menu::menu_back': recursive on all control paths, function will cause runtime stack overflow
+  ProjektPK3.vcxproj -> C:\Users\Shaggy\source\repos\ProjektPK3\Debug\ProjektPK3.exe
